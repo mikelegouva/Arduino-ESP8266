@@ -1,3 +1,7 @@
+%The code below is free to use.
+%The code below is part of a project for my university Dit|UOI
+%Code by Michail Gouvalaris & Michail Kagiaogloy
+
 #define THINGER_SERIAL_DEBUG
 
 #include <ThingerESP8266.h>
