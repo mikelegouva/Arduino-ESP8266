@@ -1,3 +1,17 @@
+/*
+This code was designed by Michail Gouvalaris & Michail Kagiaogloy on January 06th 2024.
+It is intended for academic use at the Dept. of Informatics and Telecommunication
+of University of Ioannina.
+*/
+/*
+This code was designed and compiled at Arduino IDE 2.2.1
+It was designed for use with ESP8266
+*/
+/*
+This Arduino code reads temperature and humidity data from a DHT22 sensor, calculates the average temperature over time, and integrates with Thinger.io for IoT monitoring. 
+The data is displayed on an LCD screen and transmitted to Thinger.io for remote monitoring.
+*/
+
 #define THINGER_SERIAL_DEBUG
 
 #include <ThingerESP8266.h>
