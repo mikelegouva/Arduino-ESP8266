@@ -11,6 +11,10 @@ It was designed for use with ESP8266
 This Arduino code reads temperature and humidity data from a DHT22 sensor, calculates the average temperature over time, and integrates with Thinger.io for IoT monitoring. 
 The data is displayed on an LCD screen and transmitted to Thinger.io for remote monitoring.
 */
+/*
+Last Update January 23th 2024
+Add D4 output led
+*/
 
 #define THINGER_SERIAL_DEBUG
 
