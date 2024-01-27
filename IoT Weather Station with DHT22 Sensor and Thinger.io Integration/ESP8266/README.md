@@ -1,6 +1,6 @@
 # ESP8266 DHT22 Thinger.io IoT Monitor
 
-This Arduino code is designed for use with ESP8266 and DHT22 sensor to monitor temperature and humidity. It integrates with Thinger.io for remote monitoring and displays the data on an LCD screen. The code was developed by Michail Gouvalaris and Michail Kagiaogloy for academic use at the Dept. of Informatics and Telecommunication, University of Ioannina.
+This Arduino code is designed for use with ESP8266 and DHT22 sensor to monitor temperature and humidity. It integrates with Thinger.io for remote monitoring and displays the data on an LCD screen. The code was developed by Michail Gouvalaris for academic use at the Dept. of Informatics and Telecommunication, University of Ioannina.
 
 ## Features
 - Reads temperature and humidity from a DHT22 sensor.
