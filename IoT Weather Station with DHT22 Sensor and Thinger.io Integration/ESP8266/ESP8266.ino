@@ -1,5 +1,5 @@
 /*
-This code was designed by Michail Gouvalaris & Michail Kagiaogloy on January 06th 2024.
+This code was designed by Michail Gouvalaris on January 06th 2024.
 It is intended for academic use at the Dept. of Informatics and Telecommunication
 of University of Ioannina.
 */
